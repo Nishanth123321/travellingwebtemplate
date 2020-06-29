@@ -1,0 +1,147 @@
+.bdy{
+
+	background-image: url('travell.jpeg');
+	padding:0;
+	margin:0;
+      background-repeat: none;
+      background-size: cover;
+
+}
+.container{
+width:80%;
+margin:auto;
+padding:0;
+
+}
+
+header{
+
+	background-color: white;
+	width:100%;
+	overflow:hidden;
+	margin:0;
+	padding:0;
+	max-height:15vh;
+	
+box-sizing:border-box;
+
+}
+.fleft{
+	float:left;
+
+}
+.fright{
+	float:right;
+}
+
+li{
+	margin:0;
+}
+li a{
+	text-decoration: none;
+
+	color:black;
+	font-size: 25px;
+	padding:12px 23px;
+	margin:0px 5px;
+	font-style:cursive;
+}
+ul{
+	list-style-type: none;
+
+
+}
+li a:hover{
+    background-color: grey;
+    color:white;
+}
+
+main
+{
+  text-align:center;
+  height:60vh;
+  font-style:italic;
+  color:white;
+  font-weight:bold;
+
+box-sizing:border-box;
+
+}
+
+
+section{
+
+   
+	font-size:2rem;
+margin-top:6em;
+box-sizing: border-box;
+
+
+}
+
+
+.links a{
+	border:solid 1px white;
+	border-radius:26px;
+	padding:10px 15px;
+	font-size:1.2rem;
+margin:2px 7px;
+color:white;
+font-family:bold;
+background-color: none;
+text-decoration:none;
+}
+
+.links a:first-child{
+	background-color: blue;
+	opacity: 0.8;
+
+
+}
+footer{
+
+min-height:10vh;
+background-color: white;
+
+
+
+}
+footer .container{
+	margin-top: 30px;
+	padding:30px 10px;
+
+}
+footer span{
+	margin-left:2em;
+	margin-right:2em;
+}
+
+.fch{
+
+	color:green;
+	font-style:cursive;
+	font-size:1.2rem;
+}
+
+.labl{
+ font-weight:bold;
+ font-style:italic;
+
+
+}
+
+.inpt{
+	border-radius:7px;
+	padding:9px 7px;
+}
+
+footer button{
+	color:white;
+	padding:9px 5px;
+	background-color: green;
+	opacity:0.8;
+	border:none;
+	border-radius:5px;
+	font-size:1.1rem;
+}
+
